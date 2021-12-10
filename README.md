@@ -1,5 +1,5 @@
 
-# peticipate
+# What's Your BIIGGIE?
 
 ## Description
 
